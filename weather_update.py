@@ -52,7 +52,7 @@ degC = round((degF - 32) / 1.8)
 icon = emojis.get(target['Day']['Icon'])
 
 # Calcular o tempo desde 1 de julho de 2008
-psTime = datetime.now().year - datetime(2023, 2, 15).year
+psTime = datetime.now().year - datetime(2023, 2, 15).day
 todayDay = datetime.now().strftime("%A")
 
 # Ler o template SVG
