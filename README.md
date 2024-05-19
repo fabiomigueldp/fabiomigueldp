@@ -5,6 +5,7 @@
 ## 📊 Stats
 <div style={{ display: "flex", justifyContent: "center", alignItems: "stretch", width: "100%" }}>
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fabiomigueldp&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
+    <img src="https://torbware.space/images/owner25.jpg" align="left" height="180" width="" />  
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiomigueldp&theme=synthwave&hide_border=true" />
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomigueldp&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
 </div>
@@ -149,6 +150,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fabiomigueldp&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomigueldp&hide_border=true&layout=compact" align="left" />  
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiomigueldp&theme=synthwave&hide_border=true" />
 
 <br/>  
 
