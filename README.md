@@ -1,20 +1,7 @@
-# Fábio Miguel
+<br/>
 
-Computer Science student.
+[![](./chat.svg)](https://x.com/fabiomigueldp)
 
-## Contact
+![](https://github-readme-stats.vercel.app/api?username=fabiomigueldp&show_icons=true&theme=merko)
 
-- LinkedIn: Fábio Miguel
-- Email: fabiomigueldp@gmail.com
-
-## Current Learning
-
-- C++
-- SQL
-- Computer Networks
-- Python
-
-
-## Looking For
-
-Job, freelance, project collaboration, etc.
+<br/>
