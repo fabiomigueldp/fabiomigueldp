@@ -5,7 +5,7 @@ from datetime import datetime
 
 # Configurações iniciais
 key = os.getenv('WEATHER_API_KEY')
-locationKey = "2733005"
+locationKey = "36382"
 
 emojis = {
     1: "☀️",
